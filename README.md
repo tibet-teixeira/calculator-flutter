@@ -4,6 +4,10 @@ Projeto Calculadora do curso de Flutter oferecido pela Dell Lead.
 
 ## Telas
 
-![Tela 1](resources/screen1.png) { width: 300px; }
+<kbd>
+<img src="resources/screen1.png" alt="Tela 1" width="300"> 
+</kbd>
 
-![Tela 2](resources/screen2.png) { width: 300px; }
+<kbd>
+<img src="resources/screen2.png" alt="Tela 2" width="300"> 
+</kbd>
